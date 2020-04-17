@@ -1,4 +1,5 @@
-def reverse_each_word(sentence1)
-  sentence1.each puts |q|
+def reverse_each_word(phrase)
+  phrase = []
+  phrase.split! 
 end
   
