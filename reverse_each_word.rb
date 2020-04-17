@@ -8,6 +8,6 @@ def reverse_each_word(phrase)
     new_phrase = phrase.reverse!
     new_phrase
   
-  
+end
 end
   
