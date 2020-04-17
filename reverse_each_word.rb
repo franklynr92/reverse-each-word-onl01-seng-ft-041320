@@ -1,7 +1,7 @@
 def reverse_each_word(phrase)
   
   
-  phrasephrase.split("  ")
+  phrase[] << phrase.split("  ")
   
   
 end
