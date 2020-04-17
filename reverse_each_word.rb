@@ -1,9 +1,10 @@
 def reverse_each_word(phrase)
   
-  phrase = []
-
-  phrase.split("  ")
-  
+  array = words.split
+    array.each do |word|
+        new = word.reverse!
+        new
+end
   
 end
   
