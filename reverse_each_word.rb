@@ -2,9 +2,9 @@ def reverse_each_word(words)
   
   
 
-  array = phrase.split
+  array = phrase.split("  ")
   
-  newphrase.each = []
+  phrase.each do |i|
     new_phrase << phrase.reverse!
     new_phrase
   
